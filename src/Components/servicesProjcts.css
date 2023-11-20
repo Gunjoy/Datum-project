@@ -1,0 +1,14 @@
+.titleServisesProjects {
+  margin-top: 100px;
+  margin-left: 4px;
+}
+.tableServises {
+  margin-top: 20px;
+}
+
+.TableInput {
+  /* display: flex; */
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

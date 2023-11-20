@@ -1,0 +1,21 @@
+.inputProjData {
+  margin-left: 4px;
+  margin-top: 10px;
+  /* padding: 5px; */
+  border-radius: 10px;
+}
+.ButtonsInput {
+  margin-left: 4px;
+  margin-top: 10px;
+}
+#requiredFields {
+  background-color: rgba(19, 117, 4, 0.06);
+}
+
+.columnRowButton {
+  margin-right: 4px;
+}
+
+td {
+  vertical-align: middle;
+}
