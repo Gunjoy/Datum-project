@@ -73,7 +73,7 @@ export default function ServProj() {
                 <tr>
                   <td>{elem.nameProject}</td>
                   <td>
-                    <input placeholder="Имя услуги" onChange={(e) => {
+                    <input placeholder={index} onChange={(e) => {
                       setOneService((prevstate) => ({
                         ...prevstate,
                         nameOneServ: e.target.value
