@@ -12,3 +12,18 @@
   justify-content: center;
   align-items: center;
 }
+/* ------------------------------------------------------------------------------------ */
+
+.FirstDivForArrServ {
+  display: block;
+  flex-direction: column;
+  flex: none
+  
+}
+.SecDivForArrServ {
+  font-size: 18px;
+  flex: none
+}
+h3 {
+  font-size: 18px;
+}
