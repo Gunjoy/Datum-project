@@ -86,7 +86,7 @@ export default function ServProj() {
                     return(
                       <div className="FirstDivForArrServ">
                         <div className="SecDivForArrServ">
-                          <h3>{elemen.nameOneServ}, {index}</h3>
+                        <h3>{elemen.nameOneServ}, {index}</h3>
                         </div>
                       </div>
                     )
